@@ -24,9 +24,9 @@ This project predicts whether a customer will subscribe to a term deposit using 
 ## **Results**
 | Model                | Accuracy | Precision | Recall | F1-Score |
 |----------------------|----------|-----------|--------|----------|
-| Logistic Regression  | `<Value>`| `<Value>` | `<Value>`| `<Value>`|
-| Decision Tree        | `<Value>`| `<Value>` | `<Value>`| `<Value>`|
-| Random Forest        | `<Value>`| `<Value>` | `<Value>`| `<Value>`|
+| Logistic Regression  | `0.77`| `0.78` | `0.73`| `0.75`|
+| Decision Tree        | `0.77`| `0.76` | `0.74`| `0.75`|
+| Random Forest        | `0.83`| `0.81` | `0.84`| `0.82`|
 
 ---
 
