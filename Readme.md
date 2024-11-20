@@ -1,7 +1,3 @@
-Here’s a concise version of your `README.md` file:
-
----
-
 # **Bank Marketing Campaign Prediction**
 
 ## **Overview**
